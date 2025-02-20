@@ -1,4 +1,6 @@
-![Sparrow](./public/icon-512x512.png)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/60b7cfe5-fc71-4aa9-9119-05913901743f" alt="Sparrow logo" width="200" height="200" />
+</p>
 
 # Sparrow
 
@@ -12,12 +14,3 @@ A simple and clean todo list app built with [Next.js](https://nextjs.org/), [Tai
 - [x] Restore archived tasks
 - [x] Font and accent color settings
 - [x] And more...
-
-<style>
-  img {
-    border-radius: 3rem;
-    width: 200px;
-    display: block;
-    margin: 0 auto;
-  }
-</style>
